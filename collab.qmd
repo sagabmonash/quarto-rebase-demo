@@ -12,10 +12,10 @@ This is a collaborative Quarto project.
 
 <!-- Student sections will go here -->
 
-<<<<<<< HEAD
+try to fix the conflict.
 test test
 =======
 # Instructor's Section
 
 This section was added after Student B began work.
->>>>>>> upstream/main
+try to fix the conflict.
