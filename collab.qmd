@@ -12,9 +12,15 @@ This is a collaborative Quarto project.
 
 <!-- Student sections will go here -->
 
+try to fix the conflict.
+test test
+=======
 # Instructor's Section
 
 This section was added after Student B began work.
+
+try to fix the conflict.
+=======
 
 # Instructor's Section coba kedua nih
 
