@@ -15,3 +15,7 @@ This is a collaborative Quarto project.
 # Instructor's Section
 
 This section was added after Student B began work.
+
+# Instructor's Section coba kedua nih
+
+This section was added after Student B began work.
