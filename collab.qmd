@@ -12,4 +12,10 @@ This is a collaborative Quarto project.
 
 <!-- Student sections will go here -->
 
+<<<<<<< HEAD
 test test
+=======
+# Instructor's Section
+
+This section was added after Student B began work.
+>>>>>>> upstream/main
