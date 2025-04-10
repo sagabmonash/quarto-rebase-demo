@@ -18,4 +18,10 @@ test test
 # Instructor's Section
 
 This section was added after Student B began work.
+
 try to fix the conflict.
+=======
+
+# Instructor's Section coba kedua nih
+
+This section was added after Student B began work.
